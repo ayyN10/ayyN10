@@ -1,5 +1,5 @@
 <h1 align="center">👋 Bonjour, moi c’est Hugo</h1>
-<h3 align="center">Développeur Full-Stack basé en France 🇫🇷</h3>
+<h3 align="center">Développeur Full-Stack</h3>
 
 <p align="center">
   Passionné par la création d’applications web modernes, performantes et orientées utilisateur.<br/>
